@@ -36,11 +36,11 @@
     background-position: center;
     width: 40%;
     height: 500px;
-    margin-top: 20px;
+    margin-top: 20px;*/
 
-}
+
 .img-cauca {
-    background-image: url("../cauca/CAUCA.jpg");
+    background-image: url("../CAUCA/CAUCA.jpg");
     background-size: cover;
     background-position: center;
     width: 40%;
@@ -48,7 +48,7 @@
     margin-top: 20px;
 
 }
-
+/*
 .img-nariño {
     background-image: url("../nariño/NARIÑO.jpg");
     background-size: cover;
